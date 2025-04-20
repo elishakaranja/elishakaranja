@@ -1,23 +1,64 @@
-<h1 align="center">Hi 👋, I'm Elisha!</h1>
-<h3 align="center">I'm a fullstack dev</h3>
+#  Hey 👋 I'm Elisha Karanja
 
-- 🔭 I’m currently working on **TICKETI EVENT TICKETING SYSTEM**
+🎯 **Full-Stack Dev** | 📍 Nairobi, Kenya  
 
+💡 Passionate about Learning. I love crafting impactful tech solutions.
+
+---
+
+## 🚀 About Me
+
+- 🔍 Currently diving deep into **Python** and exploring the wonders of **React.js**.
+- 🤖 Enthusiastic about AI, web development, and the open-source community.
+- 🤝 Always open to collaborating on exciting projects.
+- 📬 Reach out to me at: [elishadominic74@gmail.com](mailto:elishadominic74@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love transforming complex challenges into elegant solutions.
+- 💬 **Ask me about APIs!!**—I enjoy designing and integrating them to build seamless applications!
 - 🌱 I’m currently learning **Python,Flask, Javascript,react, API&Backend development**
 
-- 💬 Ask me about **APIs!!**
-
 - 📫 How to reach me **elishadominic74@gmail.com**
+---
 
-- 📄 Know about my experiences [www.linkedin.com/in/elisha-karanja-b12337285](www.linkedin.com/in/elisha-karanja-b12337285)
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elisha karanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisha karanja" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 📌 Pinned Projects
+
+Here are some projects I'm proud of:
+
+### [📚 Libro-LMS](https://github.com/elishakaranja/Libro-LMS)
+A command-line based Library Management System that utilizes generative AI to enhance user experience.
+
+### [🚑 Ambulance App](https://github.com/fahmy-dev/ambulance-app)
+A collaborative application developed with a team of six, focusing on emergency response coordination.
+
+### [🎟️ Ticketi](https://github.com/elishakaranja/ticketi)
+An event ticketing system enabling users to buy and resell tickets at peak, off-peak, or standard rates.
+
+---
+
+## 📈 GitHub Stats
+
+![Elisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elishakaranja&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaboration or just to say hi! Seriously i'm super friendly.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/elisha-karanja-b12337285)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/elishadominicc)
 
 <!---
 elishakaranja/elishakaranja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
