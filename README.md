@@ -1,4 +1,8 @@
-#  Hey 👋 I'm Elisha Karanja
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20I'm%20Elisha&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 
 🎯 **Full-Stack Dev** | 📍 Nairobi, Kenya  
 
