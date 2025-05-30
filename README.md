@@ -60,6 +60,8 @@ An event ticketing system enabling users to buy and resell tickets at peak, off-
 ## 📫 Let's Connect
 
 Feel free to reach out for collaboration or just to say hi! Seriously i'm super friendly.
+Linkedin - https://www.linkedin.com/in/elisha-karanja-b12337285/
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/elisha-karanja-b12337285)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/elishadominicc)
